@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam´s corner</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Sam´s corner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Apr 2024 20:08:31 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Thu, 11 Apr 2024 20:08:31 +0200</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipiscing elit ullamcorper integer scelerisque luctus, lobortis praesent erat est penatibus fringilla potenti libero facilisis aptent. Vestibulum mi posuere faucibus aliquet lacinia pharetra donec gravida eu interdum, cum ultricies placerat lectus montes cursus torquent tempor non, bibendum congue nascetur primis proin fames conubia maecenas praesent. Rhoncus purus proin et suscipit egestas class mauris curabitur condimentum, quis dis porta velit commodo nostra morbi turpis.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 11 Apr 2024 20:06:48 +0200</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipiscing elit ullamcorper integer scelerisque luctus, lobortis praesent erat est penatibus fringilla potenti libero facilisis aptent. Vestibulum mi posuere faucibus aliquet lacinia pharetra donec gravida eu interdum, cum ultricies placerat lectus montes cursus torquent tempor non, bibendum congue nascetur primis proin fames conubia maecenas praesent. Rhoncus purus proin et suscipit egestas class mauris curabitur condimentum, quis dis porta velit commodo nostra morbi turpis.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 11 Apr 2024 20:06:18 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

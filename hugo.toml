@@ -1,0 +1,37 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Sam´s corner'
+
+[permalinks] #Shortens urls so blog doesn´t show in URL
+  blog = "/:title/"
+
+  [menu]
+    [[menu.main]]
+      identifier = "home"
+      name = "Home"
+      url = "/"
+      weight = 10
+
+    [[menu.main]]
+      identifier = "blog"
+      name = "Blog"
+      url = "/posts"
+      weight = 20
+
+    [[menu.main]]
+      identifier = "about"
+      name = "About"
+      url = "/about"
+      weight = 30
+
+    [[menu.main]]
+      identifier = "contact"
+      name = "Contact"
+      url = "/contact"
+      weight = 40
+
+    [[menu.main]]
+      identifier = "youtube"
+      name = "My Youtube Channel"
+      url = "https://www.youtube.com/channel/UCU6bOWsqx_SeUl9UEJPIw-w"
+      weight = 25
