@@ -2,5 +2,12 @@
 <p>{{ .Date.Format "2 Jan 2006" }}</p>
 
 {{ .Content }}
-
+ <div>
+    {{ with .PrevInSection }}
+    <a class="button" href="{{ .Permalink }}"> {{.Title}}</a>
+    {{ end }}
+    {{ with .NextInSection }}
+    <a class="button" href="{{ .Permalink }}"> {{.Title}}</a>
+    {{ end }}
+  </div>
 {{ end }}

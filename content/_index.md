@@ -1,6 +1,6 @@
 ---
 title: "Sam´s corner"
-description: "A lightweight website made by a human being"
+description: "My personal corner of the internet"
 date: 2024-04-11T20:00:35+02:00
 
 ---
