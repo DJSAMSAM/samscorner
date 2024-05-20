@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Sam´s corner</title>
-    <link>https://example.org/posts/</link>
+    <link>https://djsamsam.github.io/samscorner/posts/</link>
     <description>Recent content in Posts on Sam´s corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Apr 2024 20:17:08 +0200</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://djsamsam.github.io/samscorner/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello2</title>
-      <link>https://example.org/posts/hello2/</link>
+      <link>https://djsamsam.github.io/samscorner/posts/hello2/</link>
       <pubDate>Sun, 14 Apr 2024 20:17:08 +0200</pubDate>
-      <guid>https://example.org/posts/hello2/</guid>
+      <guid>https://djsamsam.github.io/samscorner/posts/hello2/</guid>
       <description>Oh baby</description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>https://example.org/posts/hello-world/</link>
+      <link>https://djsamsam.github.io/samscorner/posts/hello-world/</link>
       <pubDate>Thu, 11 Apr 2024 20:08:31 +0200</pubDate>
-      <guid>https://example.org/posts/hello-world/</guid>
+      <guid>https://djsamsam.github.io/samscorner/posts/hello-world/</guid>
       <description>Lorem ipsum dolor sit amet consectetur adipiscing elit ullamcorper integer scelerisque luctus, lobortis praesent erat est penatibus fringilla potenti libero facilisis aptent. Vestibulum mi posuere faucibus aliquet lacinia pharetra donec gravida eu interdum, cum ultricies placerat lectus montes cursus torquent tempor non, bibendum congue nascetur primis proin fames conubia maecenas praesent. Rhoncus purus proin et suscipit egestas class mauris curabitur condimentum, quis dis porta velit commodo nostra morbi turpis.</description>
     </item>
   </channel>
