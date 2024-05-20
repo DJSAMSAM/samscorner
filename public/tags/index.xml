@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sam´s corner</title>
-    <link>http://localhost:1313/samscorner/tags/</link>
+    <link>https://djsamsam.github.io/samscorner/tags/</link>
     <description>Recent content in Tags on Sam´s corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/samscorner/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://djsamsam.github.io/samscorner/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

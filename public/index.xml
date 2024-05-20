@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sam´s corner</title>
-    <link>http://localhost:1313/samscorner/</link>
+    <link>https://djsamsam.github.io/samscorner/</link>
     <description>Recent content on Sam´s corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Apr 2024 20:17:08 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/samscorner/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://djsamsam.github.io/samscorner/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello2</title>
-      <link>http://localhost:1313/samscorner/posts/hello2/</link>
+      <link>https://djsamsam.github.io/samscorner/posts/hello2/</link>
       <pubDate>Sun, 14 Apr 2024 20:17:08 +0200</pubDate>
-      <guid>http://localhost:1313/samscorner/posts/hello2/</guid>
+      <guid>https://djsamsam.github.io/samscorner/posts/hello2/</guid>
       <description>Oh baby</description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/samscorner/posts/hello-world/</link>
+      <link>https://djsamsam.github.io/samscorner/posts/hello-world/</link>
       <pubDate>Thu, 11 Apr 2024 20:08:31 +0200</pubDate>
-      <guid>http://localhost:1313/samscorner/posts/hello-world/</guid>
+      <guid>https://djsamsam.github.io/samscorner/posts/hello-world/</guid>
       <description>Lorem ipsum dolor sit amet consectetur adipiscing elit ullamcorper integer scelerisque luctus, lobortis praesent erat est penatibus fringilla potenti libero facilisis aptent. Vestibulum mi posuere faucibus aliquet lacinia pharetra donec gravida eu interdum, cum ultricies placerat lectus montes cursus torquent tempor non, bibendum congue nascetur primis proin fames conubia maecenas praesent. Rhoncus purus proin et suscipit egestas class mauris curabitur condimentum, quis dis porta velit commodo nostra morbi turpis.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/samscorner/contact/</link>
+      <link>https://djsamsam.github.io/samscorner/contact/</link>
       <pubDate>Thu, 11 Apr 2024 20:06:48 +0200</pubDate>
-      <guid>http://localhost:1313/samscorner/contact/</guid>
+      <guid>https://djsamsam.github.io/samscorner/contact/</guid>
       <description>As you can see I have no comments on my website. This is mostly because it´s a minor PITA to implement. If you want to get in touch, contact me on my slightly obfuscated email below:&#xA;samuel&amp;quot;letter R&amp;quot;w99@gmail.com</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/samscorner/about/</link>
+      <link>https://djsamsam.github.io/samscorner/about/</link>
       <pubDate>Thu, 11 Apr 2024 20:06:18 +0200</pubDate>
-      <guid>http://localhost:1313/samscorner/about/</guid>
+      <guid>https://djsamsam.github.io/samscorner/about/</guid>
       <description>My own corner of the internet &amp;ldquo;A static website in 2024?&amp;rdquo; That´s right, we´re going old school here!&#xA;The internet is constantly evolving, and for the last 10 years, it hasn´t been for the better. Nowadays our internet is flooded with AI-generated search engine optimized pages, bots and algorithms that decide what content and ads you are supposed to watch. Dead internet theory feels more real than ever.&#xA;As an attempt to regain control, and to have a place in this vast landscape to call my own, I created this website.</description>
     </item>
   </channel>
