@@ -27,7 +27,9 @@ But for this website project, actually seeing it through required learning some 
 which was more than my patience allowed the first **8 or so** times I typed that command in
 and created a new git repository. 8 failed attempts at making this.
 
-But here we are, on the **9th** try, and there is actually something on the internet.
+But here we are, on the **9th** try, and something actually made it to the internet.
+It might be rough, a bit unfinished, forever under construction, but at least it hit
+the world wide web.
 
 **Look mom, I made something!**
 
