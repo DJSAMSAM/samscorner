@@ -15,7 +15,8 @@ and algorithms that decide what content and ads you are supposed to watch.
 As an attempt to regain control, and to have a place in this vast landscape to call my own, I
 created this website. Sam's corner is my own corner of the Internet, free from bloated scripting, AI-generated content and algorithms.  
 
-/* ### About me ### */
+### About me ###
+I´m Samuel, 20-something old man from Sweden, suffering from chronic special interest addiction, a fake diagnose causing me to constantly gain and lose interest in new things, often centered around technology and vehicles. 
 
 
 ### How this website was made ###
