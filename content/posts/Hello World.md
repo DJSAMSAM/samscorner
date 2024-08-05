@@ -4,7 +4,6 @@ description: "9th time´s a charm, time to launch a website"
 date: 2024-05-20T21:40:26+02:00
 ---
 
-# Look mom, I´m on the Internet! #
 
 It´s about time this page gets launched. It´s been in the back of my head
 for a long time. Ever since I started watching this slightly alt-right feeling
@@ -16,7 +15,7 @@ After maybe half an hour of elaborate comparisons of motorcycle engine layouts,
 or the virtues of different sailboat rig types, or some other nonsense occupying
 95% of my cognitive abilities, she turned to me(probably in despair), and said:
 
->**"Maybe you should have a blog or something where you can write all this down...""**
+>**"Maybe you should have a blog or something where you can write all this down..."**
 
 That was is, the final push I needed to begin working on this website.
 
