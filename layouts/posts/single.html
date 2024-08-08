@@ -4,10 +4,10 @@
 {{ .Content }}
  <div>
     {{ with .PrevInSection }}
-    <a class="button" href="{{ .Permalink }}"> {{.Title}}</a>
+    <a class="button" href="{{ .Permalink }}"> Previous post:{{.Title}}</a>
     {{ end }}
     {{ with .NextInSection }}
-    <a class="button" href="{{ .Permalink }}"> {{.Title}}</a>
+    <a class="button" href="{{ .Permalink }}"> Next post:{{.Title}}</a>
     {{ end }}
   </div>
 {{ end }}

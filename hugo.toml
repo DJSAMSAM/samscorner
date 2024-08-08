@@ -2,6 +2,26 @@ baseURL = 'https://djsamsam.github.io/samscorner/'
 languageCode = 'en-us'
 title = 'Sam´s corner'
 
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.link]
+        enableDefault = true
+      [markup.goldmark.renderHooks.image]
+        enableDefault = true
+
+
+[module]
+  [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+  [[module.mounts]]
+    source = 'static'
+    target = 'assets'
+
+
 [permalinks] #Shortens urls so blog doesn´t show in URL
   blog = "/:title/"
 
