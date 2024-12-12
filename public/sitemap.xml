@@ -3,7 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/samscorner/posts/</loc>
-    <lastmod>2024-12-12T20:10:42+01:00</lastmod>
+    <lastmod>2024-12-11T20:10:42+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/samscorner/posts/bosnia/</loc>
+    <lastmod>2024-12-11T20:10:42+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/samscorner/posts/gs500/</loc>
     <lastmod>2024-08-05T12:54:50+02:00</lastmod>

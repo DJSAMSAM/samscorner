@@ -1,0 +1,12 @@
+{{ with .PrevInSection }}
+  <div class="button-container">
+    <a href= "{{.Permalink}}">
+      <button type="button">Previous post</button>
+    </a>
+      {{ end }}
+      {{ with .NextInSection }}
+    <a href= "{{.Permalink}}">
+      <button type="button">Next post</button>
+    </a>
+    {{ end }}
+  </div>
