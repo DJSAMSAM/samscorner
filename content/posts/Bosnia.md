@@ -1,7 +1,7 @@
 ---
 title: "The beautiful country with the horrific history"
 description: "Learning´s from the cheapest flight we could find "
-date: 2024-12-12T20:10:42+01:00
+date: 2024-12-11T20:10:42+01:00
 draft: false
 ---
 **Tl;dr We went to bosnia here´s a [VIDEO](https://www.youtube.com/watch?v=nwAZ1R2wLP0) of it.**
