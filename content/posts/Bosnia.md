@@ -1,10 +1,10 @@
 ---
 title: "The beautiful country with the horrific history"
 description: "Learning´s from the cheapest flight we could find "
-date: 2024-11-19T20:10:42+01:00
+date: 2024-12-12T20:10:42+01:00
 draft: true
 ---
-**Tl;dr We went to bosnia here´s a [VIDEO](https://www.youtube.com/watch?v=nwAZ1R2wLP0)of it.**
+**Tl;dr We went to bosnia here´s a [VIDEO](https://www.youtube.com/watch?v=nwAZ1R2wLP0) of it.**
 
 In the fall of 2024, me and my partner were faced with a new and unfamiliar predicament. Not only were we part of the socio-economic group some people  call [D.I.N.K´s](https://www.urbandictionary.com/define.php?term=D.I.N.K), my partner was also enjoying her first **höstlov**(fall holiday week) as a teacher. This needed an appropriate celebration, dog days were over and we were ready for the high life! We decided that a short vacation would be fitting.
 
@@ -21,7 +21,7 @@ It is almost embarrassing to admit how little I knew about Bosnia going into thi
 * They had some type of war in the 90´s (it was also a civil war?)
 * They love turbo diesel engines and eat only minced meat?
 
-As a service to the reader, I will therefore provide a brief summary of the history of Bosnia. Because of it´s location it has been part of many larger empires. Early in the first millenia a.d. it was part of the West Roman empire, and through a turbulent millenia Ostrogoths, Alans and the Bysantine Empire all traded places for control and influence over the area. By the year 1000, ready to head into the repressed dark ages of presumed feudalism, the population consisted of slavs and east romansized people.
+As a service to the reader, I will therefore provide a brief summary of the history of Bosnia. Because of it´s location it has been part of many larger empires. Early in the first millenium a.d. it was part of the West Roman empire, and throughout the next turbulent centuries, Ostrogoths, Alans and the Bysantine Empire all traded places for control and influence over the area. By the year 1000, ready to head into the repressed dark ages of presumed feudalism, the population consisted of slavs and east romansized people.
 
 Skipping through the dark ages we head into the 15th century. The Ottoman empire, having ambitious plans to expand, took control of the Bosnian kingdom, starting a new chapter in Bosnian history. Cities such as the capital Sarajevo were founded, and trough migration and widespread conversions, a large muslim demographic was founded. A large sephardic jewish population also migrated into the area, having been kicked out of Spain. With the Ottoman expansion into Europe, Bosnia could thrive as part of a larger empire with widespread trade. This relatively wealthy period however approached it´s end during the 17th century, when the Ottoman empire was pushed back, turning Bosnia into a front line outpost for a failing empire.
 
@@ -41,14 +41,19 @@ If you read through the above summary, you know significantly more than we did t
 
 But there were also aspects of Sarajevo that differed from what I had seen in previous journeys to the Balkans. The commie blocks had unusually run down facades, and upon closer inspection, we were surprised to see that this wasn´t due to natural decay, but rather due to shrapnel from shellings. We were also surprised to find that the central areas of Sarajevo looked a mix of central European cities such as Prague or Budapest, but with an Ottoman old town with a bazaar and multiple large mosques.
 
+![House facade with shrapnel](/images/blog/sarajevo_fasad.jpg "A building with holes from shrapnel")
+
 So what is there to do in Sarajevo? Of course, we went to see the place were Franz Ferdinand was assassinated. There is a plaque describing the event, and even a bronze casting representing the location Gavrilo Princip stood when he shot the arch duke. We also took a guided tour of the city centre, trying to educate ourselves about this unfamiliar location, were we learned briefly about Sarajevo´s history, Gasi Husrev and the influence he had had on the city´s development, and the horrors of the 3 year siege of Sarajevo. There is also a cable car leading to one of the facilities from the 84 winter Olympics, where you can explore the old bobsled track and pretend you´re in this [video](https://www.youtube.com/watch?v=rl-wWHr_-ck&t=85s)!
 
 
 We also tried different restaurants, serving typical Balkan cuisine consisting of mostly grilled meats, *Bureks* and the occasional stew. I suggest trying some of the less well known Bosnian foods such as *Klepe* and *Duvec*, otherwise you will grow very tired of *Burek* and *Cevapi*.
 There are also many reasonably priced bars, and with a large portion of the local population being muslim, these are quite empty in the off season, allowing us to explore the different *Rakije* flavours without having to fight for a place to sit.
 
+![A serving of Klepe with kajmak](/images/blog/knepe.jpg "Klepe, one of few Bosnian dishes that are not grilled")
+
 Renting a car in Bosnia is also inexpensive, so renting a small car and exploring seemed like a good option. We reserved a small car, I think it was an Opel Corsa, but were surprised to find an 8 seat Renault Traffic when we arrived to the rental agency. It was hilarious to drive this bus sized behemoth on the winding roads of Bosnia, even though it felt reassuring to carry some extra momentum considering the reputation of Balkan drivers. Most of my girlfriends stress from our day on the road however did not stem from other drivers, but from me trying fit the massive van through narrow alleys, over concrete foundations(with some nice subframe scraping) or trying to make a 3 point turn next to a cliff. A hidden gem that we found was the road from Mostar to *Rujiste*, a twisty hairpin road leading to an old ski resort. It´s worth noting however, that when the road continues form *Rujiste* to *Konjic*, it does so as a bumpy gravel road that with a 10 km section on a hillside with 100+ meter drops on the side. Perfect if you are feeling adventurous with you BMW GS, less so in an obese van...
 
+![White van driving on a dirt road](/images/blog/bosnia_car.png "Some Bosnian roads are a bit rough!")
 
 
 ### So should I go? ###
