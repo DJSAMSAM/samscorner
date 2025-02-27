@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Sam´s corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jan 2025 12:43:09 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 15:29:26 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Votewithmoney</title>
+      <link>http://localhost:1313/posts/votewithmoney/</link>
+      <pubDate>Thu, 27 Feb 2025 15:29:26 +0100</pubDate>
+      <guid>http://localhost:1313/posts/votewithmoney/</guid>
+      <description></description>
+    </item>
     <item>
       <title>How / Why should I document my life?</title>
       <link>http://localhost:1313/posts/documenting_your_life/</link>
