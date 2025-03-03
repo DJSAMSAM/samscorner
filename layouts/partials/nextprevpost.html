@@ -1,0 +1,18 @@
+<div>
+   {{ with .PrevInSection }}
+      <div align="left">
+
+
+     <a href="{{ .Permalink }}">
+       <button type="button">Previous post</button>
+     </a>
+     </div>
+   {{ end }}
+   {{ with .NextInSection }}
+    <div align="right">
+     <a href= "{{.Permalink}}">
+       <button type="button">Next post</button>
+     </a>
+    </div>
+   {{ end }}
+</div>
