@@ -26,3 +26,9 @@
   --preformatted: #ccc;
   --disabled: #111;
 }
+
+.center{
+  display: flex;
+  justify-content: center;
+  
+}
