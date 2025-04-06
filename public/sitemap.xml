@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/votewithmoney/</loc>
-    <lastmod>2025-03-05T21:00:00+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-04-06T14:04:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/spring_and_forgiveness/</loc>
+    <lastmod>2025-04-06T14:04:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/votewithmoney/</loc>
     <lastmod>2025-03-05T21:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/documenting_your_life/</loc>

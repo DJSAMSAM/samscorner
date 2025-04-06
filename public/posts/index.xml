@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Sam´s corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Mar 2025 21:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 14:04:05 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spring_and_forgiveness</title>
+      <link>http://localhost:1313/posts/spring_and_forgiveness/</link>
+      <pubDate>Sun, 06 Apr 2025 14:04:05 +0200</pubDate>
+      <guid>http://localhost:1313/posts/spring_and_forgiveness/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Petty revenge, activism or plain old frugality? Your vote counts!</title>
       <link>http://localhost:1313/posts/votewithmoney/</link>
