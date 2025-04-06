@@ -1,5 +1,5 @@
 ---
-title: "Spring_and_forgetfulness"
+title: "Spring amnesia"
 description: "The lenses in my glasses must have replaced"
 date: 2025-04-06T14:04:05+02:00
 draft: false
