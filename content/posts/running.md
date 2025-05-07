@@ -2,7 +2,7 @@
 title: "Confessions of the aspiring runner"
 description: "I´m bad at running and therefore a bad person"
 date: 2025-05-07T09:19:15+02:00
-draft: true
+draft: false
 ---
 
 **Before our Alphabet overlords allow me to watch a 40 minute video about an old Czech truck, I am required to watch an ad. The ad shows young and attractive people smiling as they push themselves to the limit by running up steep hills, or through busy urban environments as they balance their successful careers with incredible fitness. Meanwhile, I´m in my underwear on the couch, knowing that I´m not ready for my 21km race coming up in 2 weeks. And that I don´t like running.**
