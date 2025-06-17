@@ -6,8 +6,22 @@
     <description>Recent content on Sam´s corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 May 2025 09:19:15 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 11:40:11 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build and repair your own stuff</title>
+      <link>http://localhost:1313/posts/repair/</link>
+      <pubDate>Tue, 17 Jun 2025 11:40:11 +0200</pubDate>
+      <guid>http://localhost:1313/posts/repair/</guid>
+      <description>Oh the dreadful menial tasks of life. Vacuuming, cooking, doing the dishes, all to end up with a dirty apartment, smudgy dishes and an empty stomach only a few hours later. If I were more of hobby-psychologist, I would make a comparison to Sisyphus, but I am so tired of everyone and their grandma talking about him, so I wont. Besides, it´s in the core nature of cell-based life to always struggle against entropy, get over it.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/mentalhealth/</link>
+      <pubDate>Wed, 28 May 2025 10:49:44 +0200</pubDate>
+      <guid>http://localhost:1313/posts/mentalhealth/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Confessions of the aspiring runner</title>
       <link>http://localhost:1313/posts/running/</link>
