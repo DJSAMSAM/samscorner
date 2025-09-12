@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-06-17T11:40:11+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/repair/</loc>
     <lastmod>2025-06-17T11:40:11+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/mentalhealth/</loc>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-06-17T11:40:11+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/chaingang/</loc>
     <lastmod>2025-05-28T10:49:44+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/running/</loc>
