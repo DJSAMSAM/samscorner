@@ -1,4 +1,4 @@
-baseURL = 'samscorner.pages.dev/'
+baseURL = 'https://samscorner.pages.dev/'
 languageCode = 'en-us'
 title = 'Sam´s corner'
 
@@ -39,19 +39,19 @@ title = 'Sam´s corner'
     [[menu.main]]
       identifier = "blog"
       name = "Blog"
-      url = "/posts"
+      url = "/posts/"
       weight = 20
 
     [[menu.main]]
       identifier = "about"
       name = "About"
-      url = "/about"
+      url = "/about/"
       weight = 30
 
     [[menu.main]]
       identifier = "contact"
       name = "Contact"
-      url = "/contact"
+      url = "/contact/"
       weight = 40
 
     [[menu.main]]
