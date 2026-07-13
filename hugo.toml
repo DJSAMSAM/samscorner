@@ -2,60 +2,60 @@ baseURL = 'https://samscorner.pages.dev/'
 languageCode = 'en-us'
 title = 'Sam´s corner'
 
-
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.parser]
       wrapStandAloneImageWithinParagraph = false
+
       [markup.goldmark.parser.attribute]
         block = true
+
     [markup.goldmark.renderHooks]
       [markup.goldmark.renderHooks.link]
-        enableDefault = true
-      [markup.goldmark.renderHooks.image]
-        enableDefault = true
+        useEmbedded = "fallback"
 
+      [markup.goldmark.renderHooks.image]
+        useEmbedded = "fallback"
 
 [module]
   [[module.mounts]]
     source = 'assets'
     target = 'assets'
+
   [[module.mounts]]
     source = 'static'
     target = 'assets'
 
-
-[permalinks] #Shortens urls so blog doesn´t show in URL
+[permalinks]
   blog = "/:title/"
 
-  [menu]
-    [[menu.main]]
-      identifier = "home"
-      name = "Home"
-      url = "/"
-      weight = 10
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
 
-    [[menu.main]]
-      identifier = "blog"
-      name = "Blog"
-      url = "/posts/"
-      weight = 20
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 20
 
-    [[menu.main]]
-      identifier = "about"
-      name = "About"
-      url = "/about/"
-      weight = 30
+  [[menu.main]]
+    identifier = "youtube"
+    name = "My Youtube Channel"
+    url = "https://www.youtube.com/channel/UCU6bOWsqx_SeUl9UEJPIw-w"
+    weight = 25
 
-    [[menu.main]]
-      identifier = "contact"
-      name = "Contact"
-      url = "/contact/"
-      weight = 40
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 30
 
-    [[menu.main]]
-      identifier = "youtube"
-      name = "My Youtube Channel"
-      url = "https://www.youtube.com/channel/UCU6bOWsqx_SeUl9UEJPIw-w"
-      weight = 25
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 40

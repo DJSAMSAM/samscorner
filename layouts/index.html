@@ -2,7 +2,7 @@
   {{ .Content }}
   <h2>Latest blog posts:</h2>
   <div>
-    {{ $blog_pages := where .Site.RegularPages "Section" "==" "posts" }}
+    {{ $blog_pages := where .Site.RegularPages "Section" "==" "blog" }}
     {{ range first 3 $blog_pages }}
     <p><a href="{{ .Permalink }}">{{ .Title }}</a><br>
     {{ .Description }}<br>
