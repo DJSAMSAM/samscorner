@@ -58,5 +58,5 @@ title = 'Sam´s corner'
   [[menu.main]]
     identifier = "guestbook"
     name = "Guestbook"
-    url = "/guestbook/"
+    url = "/guestbook/sams_guestbook"
     weight = 40
