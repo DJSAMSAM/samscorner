@@ -2,10 +2,14 @@
 <html>
   {{ partial "head.html" . -}}
   <body>
-    {{ partial "header.html" . -}}
-    <main>
-      {{- block "main" . }}{{- end -}}
-    </main>
-    {{ partial "footer.html" . -}}
+    <div class="page-wrapper">
+      {{ partial "header.html" . -}}
+
+      <main class="site-main">
+        {{- block "main" . }}{{- end -}}
+      </main>
+
+      {{ partial "footer.html" . -}}
+    </div>
   </body>
 </html>

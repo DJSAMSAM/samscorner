@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Sam´s corner</title>
-		<link>http://localhost:1313/</link>
+		<link>http://localhost:1313/samscorner/</link>
 		<description>Recent content on Sam´s corner</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,69 +12,69 @@
 		
 			<lastBuildDate>Wed, 07 May 2025 09:19:15 +0200</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/samscorner/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Confessions of the aspiring runner</title>
-				<link>http://localhost:1313/confessions-of-the-aspiring-runner/</link>
+				<link>http://localhost:1313/samscorner/confessions-of-the-aspiring-runner/</link>
 				<pubDate>Wed, 07 May 2025 09:19:15 +0200</pubDate>
-				<guid>http://localhost:1313/confessions-of-the-aspiring-runner/</guid>
+				<guid>http://localhost:1313/samscorner/confessions-of-the-aspiring-runner/</guid>
 				<description>&lt;p&gt;&lt;strong&gt;Before our Alphabet overlords allow me to watch a 40 minute video about an old Czech truck, I am required to watch an ad. The ad shows young and attractive people smiling as they push themselves to the limit by running up steep hills, or through busy urban environments as they balance their successful careers with incredible fitness. Meanwhile, I´m in my underwear on the couch, knowing that I´m not ready for my 21km race coming up in 2 weeks. And that I don´t like running.&lt;/strong&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Spring amnesia</title>
-				<link>http://localhost:1313/spring-amnesia/</link>
+				<link>http://localhost:1313/samscorner/spring-amnesia/</link>
 				<pubDate>Sun, 06 Apr 2025 14:04:05 +0200</pubDate>
-				<guid>http://localhost:1313/spring-amnesia/</guid>
+				<guid>http://localhost:1313/samscorner/spring-amnesia/</guid>
 				<description>&lt;h3 id=&#34;when-subjectivity-meets-seasonal-depression&#34;&gt;When subjectivity meets seasonal depression&lt;/h3&gt;&#xA;&lt;p&gt;If you would have asked me a month ago, if I lived in a beautiful place, I would have&#xA;replied with a resounding no. I would have complained about the bitter cold, the few hours of daylight and the disgusting road salt infused sludge that covers our roads. I would have gestured towards the fields surrounding my grey city, covered in vegetation tortured by wind, rain and cold, dying if not already dead and decaying.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Petty revenge, activism or plain old frugality? Your vote counts!</title>
-				<link>http://localhost:1313/petty-revenge-activism-or-plain-old-frugality-your-vote-counts/</link>
+				<link>http://localhost:1313/samscorner/petty-revenge-activism-or-plain-old-frugality-your-vote-counts/</link>
 				<pubDate>Wed, 05 Mar 2025 21:00:00 +0100</pubDate>
-				<guid>http://localhost:1313/petty-revenge-activism-or-plain-old-frugality-your-vote-counts/</guid>
+				<guid>http://localhost:1313/samscorner/petty-revenge-activism-or-plain-old-frugality-your-vote-counts/</guid>
 				<description>&lt;p&gt;So&amp;hellip; democracy and global politics have not been looking to good recently has it? A decade of far right populist parties gaining serious traction in various European countries. Colonial Emerald Boy and wrinkly old Mr Artificial &lt;em&gt;Ikterus&lt;/em&gt; turning the largest western democracy into a non constitutional playhouse for 19 year old self proclaimed &amp;ldquo;Big Balls&amp;rdquo; incels. A bald bookstore magnate and an allegedly non-reptilian social media emperor are trading blows to see who can hoard the most wealth, while trying their bests to maintain their &lt;a href=&#34;https://www.urbandictionary.com/define.php?term=FWB&#34;&gt;FWB&lt;/a&gt;-relationships with aforementioned Mr Apartheid and the second coming of the Annoying Orange.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>How / Why should I document my life?</title>
-				<link>http://localhost:1313/how-/-why-should-i-document-my-life/</link>
+				<link>http://localhost:1313/samscorner/how-/-why-should-i-document-my-life/</link>
 				<pubDate>Sun, 05 Jan 2025 12:43:09 +0100</pubDate>
-				<guid>http://localhost:1313/how-/-why-should-i-document-my-life/</guid>
+				<guid>http://localhost:1313/samscorner/how-/-why-should-i-document-my-life/</guid>
 				<description>&lt;p&gt;&lt;strong&gt;Journaling, mindfulness, mood scarves, photo albums, digital picture frames, gratefulness jars etc. The ways that we can store information about ourselves today are seemingly endless. As I´m writing this in early January of 2025, I should really be tending to my &amp;ldquo;yearly archiving&amp;rdquo;. But as always there are too many ways to do this, and I start to doubt if my method is the right one. So, to find a better way to go about things, or at least to alleviate my doubts about my method, I think we need to look more closely at the matter.&lt;/strong&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>The beautiful country with the horrific history</title>
-				<link>http://localhost:1313/the-beautiful-country-with-the-horrific-history/</link>
+				<link>http://localhost:1313/samscorner/the-beautiful-country-with-the-horrific-history/</link>
 				<pubDate>Wed, 11 Dec 2024 20:10:42 +0100</pubDate>
-				<guid>http://localhost:1313/the-beautiful-country-with-the-horrific-history/</guid>
+				<guid>http://localhost:1313/samscorner/the-beautiful-country-with-the-horrific-history/</guid>
 				<description>&lt;p&gt;&lt;strong&gt;Tl;dr We went to bosnia here´s a &lt;a href=&#34;https://www.youtube.com/watch?v=nwAZ1R2wLP0&#34;&gt;VIDEO&lt;/a&gt; of it.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the fall of 2024, me and my partner were faced with a new and unfamiliar predicament. Not only were we part of the socio-economic group some people  call &lt;a href=&#34;https://www.urbandictionary.com/define.php?term=D.I.N.K&#34;&gt;D.I.N.K´s&lt;/a&gt;, my partner was also enjoying her first &lt;strong&gt;höstlov&lt;/strong&gt;(fall holiday week) as a teacher. This needed an appropriate celebration, dog days were over and we were ready for the high life! We decided that a short vacation would be fitting.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Comparison is the thief of all joy, and crusty old motorcycles rock!</title>
-				<link>http://localhost:1313/comparison-is-the-thief-of-all-joy-and-crusty-old-motorcycles-rock/</link>
+				<link>http://localhost:1313/samscorner/comparison-is-the-thief-of-all-joy-and-crusty-old-motorcycles-rock/</link>
 				<pubDate>Mon, 05 Aug 2024 12:54:50 +0200</pubDate>
-				<guid>http://localhost:1313/comparison-is-the-thief-of-all-joy-and-crusty-old-motorcycles-rock/</guid>
+				<guid>http://localhost:1313/samscorner/comparison-is-the-thief-of-all-joy-and-crusty-old-motorcycles-rock/</guid>
 				<description>&lt;p&gt;Motorcycles. They are unnecessary, obnoxious, dangerous and anti-social. Despite all this(or maybe because of it?), many men build their identities around these mid life crisis machines.&lt;/p&gt;&#xA;&lt;p&gt;In the spring of 2024, having worked a few months as a grunt at a Slovenian tech company, I could for the first time in my life seriously consider buying a motorcycle. One weekend, a deal that I could not resist popped up: A newly serviced and inspected &lt;strong&gt;Suzuki GS500E&lt;/strong&gt; for 14 000 SEK(~1300$). I knew this was an ok bike to start on, having seen the review by Brian at &lt;strong&gt;RegularCarReviews&lt;/strong&gt;, but I decided to read more about my newly acquired possession. I admit to being a bit shocked when I read the following about my new bike on MotorCycleNews.com:&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Look mom, I´m on the Internet!</title>
-				<link>http://localhost:1313/look-mom-im-on-the-internet/</link>
+				<link>http://localhost:1313/samscorner/look-mom-im-on-the-internet/</link>
 				<pubDate>Mon, 20 May 2024 21:40:26 +0200</pubDate>
-				<guid>http://localhost:1313/look-mom-im-on-the-internet/</guid>
+				<guid>http://localhost:1313/samscorner/look-mom-im-on-the-internet/</guid>
 				<description>&lt;p&gt;It´s about time this page gets launched. It´s been in the back of my head&#xA;for a long time. Ever since I started watching this slightly alt-right feeling&#xA;guy &lt;a href=&#34;https://www.youtube.com/@LukeSmithxyz&#34;&gt;Luke Smith&lt;/a&gt;, I knew I needed my own website.&lt;/p&gt;&#xA;&lt;p&gt;It became even more apparent when I, as I often do when my mental health is good, was&#xA;rambling about something that I had researched to my girlfriend.&#xA;After maybe half an hour of elaborate comparisons of motorcycle engine layouts,&#xA;or the virtues of different sailboat rig types, or some other nonsense occupying&#xA;95% of my cognitive abilities, she turned to me(probably in despair), and said:&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Guestbook</title>
-				<link>http://localhost:1313/guestbook/</link>
-				<pubDate>Thu, 11 Apr 2024 20:06:48 +0200</pubDate>
-				<guid>http://localhost:1313/guestbook/</guid>
-				<description>&lt;p&gt;Hello&lt;/p&gt;</description>
+				<title>About</title>
+				<link>http://localhost:1313/samscorner/about/</link>
+				<pubDate>Thu, 11 Apr 2024 20:06:18 +0200</pubDate>
+				<guid>http://localhost:1313/samscorner/about/</guid>
+				<description>&lt;h3 id=&#34;my-own-corner-of-the-internet&#34;&gt;My own corner of the internet&lt;/h3&gt;&#xA;&lt;p&gt;Welcome to the a calm, cozy corner of an otherwise chaotic and increasingly annoying internet. There´s just not much going on here. I will post some updates on my thoughts, projects and life in general. Feel free to have a look around!&lt;/p&gt;&#xA;&lt;p&gt;Keep it low-tech! No finance buzzwords, AI slop or datacenters involved here.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>About</title>
-				<link>http://localhost:1313/about/</link>
-				<pubDate>Thu, 11 Apr 2024 20:06:18 +0200</pubDate>
-				<guid>http://localhost:1313/about/</guid>
-				<description>&lt;h3 id=&#34;my-own-corner-of-the-internet&#34;&gt;My own corner of the internet&lt;/h3&gt;&#xA;&lt;p&gt;Welcome to the a calm, cozy corner of an otherwise chaotic and increasingly annoying internet. There´s just not much going on here. I will post some updates on my thoughts, projects and life in general. Feel free to have a look around!&lt;/p&gt;&#xA;&lt;p&gt;Keep it low-tech! No finance buzzwords, AI slop or datacenters involved here.&lt;/p&gt;</description>
+				<title>Guestbook</title>
+				<link>http://localhost:1313/samscorner/guestbook/sams_guestbook/</link>
+				<pubDate>Thu, 11 Apr 2024 20:00:35 +0200</pubDate>
+				<guid>http://localhost:1313/samscorner/guestbook/sams_guestbook/</guid>
+				<description>&lt;p&gt;Sign the guestbook!&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
