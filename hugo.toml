@@ -1,4 +1,4 @@
-baseURL = 'https://samscorner.pages.dev/'
+baseURL = 'https://djsamsam.github.io/samscorner/'
 languageCode = 'en-us'
 title = 'Sam´s corner'
 
@@ -42,6 +42,7 @@ title = 'Sam´s corner'
     url = "/blog/"
     weight = 20
 
+
   [[menu.main]]
     identifier = "youtube"
     name = "My Youtube Channel"
@@ -55,7 +56,7 @@ title = 'Sam´s corner'
     weight = 30
 
   [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
+    identifier = "guestbook"
+    name = "Guestbook"
+    url = "/guestbook/"
     weight = 40

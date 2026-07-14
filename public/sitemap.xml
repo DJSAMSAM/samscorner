@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>http://localhost:1313/samscorner/blog/</loc>
     <lastmod>2025-05-07T09:19:15+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/confessions-of-the-aspiring-runner/</loc>
+    <loc>http://localhost:1313/samscorner/confessions-of-the-aspiring-runner/</loc>
     <lastmod>2025-05-07T09:19:15+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/spring-amnesia/</loc>
+    <loc>http://localhost:1313/samscorner/spring-amnesia/</loc>
     <lastmod>2025-04-06T14:04:05+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/petty-revenge-activism-or-plain-old-frugality-your-vote-counts/</loc>
+    <loc>http://localhost:1313/samscorner/petty-revenge-activism-or-plain-old-frugality-your-vote-counts/</loc>
     <lastmod>2025-03-05T21:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/how-/-why-should-i-document-my-life/</loc>
+    <loc>http://localhost:1313/samscorner/how-/-why-should-i-document-my-life/</loc>
     <lastmod>2025-01-05T12:43:09+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/the-beautiful-country-with-the-horrific-history/</loc>
+    <loc>http://localhost:1313/samscorner/the-beautiful-country-with-the-horrific-history/</loc>
     <lastmod>2024-12-11T20:10:42+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/comparison-is-the-thief-of-all-joy-and-crusty-old-motorcycles-rock/</loc>
+    <loc>http://localhost:1313/samscorner/comparison-is-the-thief-of-all-joy-and-crusty-old-motorcycles-rock/</loc>
     <lastmod>2024-08-05T12:54:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/look-mom-im-on-the-internet/</loc>
+    <loc>http://localhost:1313/samscorner/look-mom-im-on-the-internet/</loc>
     <lastmod>2024-05-20T21:40:26+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/guestbook/</loc>
+    <loc>http://localhost:1313/samscorner/guestbook/</loc>
     <lastmod>2024-04-11T20:06:48+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/samscorner/about/</loc>
     <lastmod>2024-04-11T20:06:18+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/samscorner/</loc>
     <lastmod>2024-04-11T20:00:35+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/samscorner/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/samscorner/tags/</loc>
   </url>
 </urlset>
