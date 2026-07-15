@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Abouts on Sam´s corner</title>
+		<link>http://localhost:1313/samscorner/about/</link>
+		<description>Recent content in Abouts on Sam´s corner</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 11 Apr 2024 20:06:18 +0200</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/samscorner/about/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About</title>
+				<link>http://localhost:1313/samscorner/about/about/</link>
+				<pubDate>Thu, 11 Apr 2024 20:06:18 +0200</pubDate>
+				<guid>http://localhost:1313/samscorner/about/about/</guid>
+				<description>&lt;h3 id=&#34;my-own-corner-of-the-internet&#34;&gt;My own corner of the internet&lt;/h3&gt;&#xA;&lt;p&gt;Welcome to the a calm, cozy corner of an otherwise chaotic and increasingly annoying internet. There´s just not much going on here. I will post some updates on my thoughts, projects and life in general. Feel free to have a look around!&lt;/p&gt;&#xA;&lt;p&gt;Keep it low-tech! No finance buzzwords, AI slop or datacenters involved here.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

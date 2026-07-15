@@ -1,26 +1,25 @@
+{{ $current := . }}
 <nav class="site-nav">
-    <ul>
-      {{ range site.Menus.main }}
-        {{ $active := false }}
+  <ul>
+    {{ range .Site.Menus.main }}
+      {{ $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }}
+      {{ $active = or $active (eq .Name $current.Title) }}
 
-        {{ if eq .Identifier "home" }}
-          {{ $active = eq $.RelPermalink "/" }}
-        {{ else if eq .Identifier "blog" }}
-          {{ $active = eq $.Section "blog" }}
-        {{ else if eq .Identifier "about" }}
-          {{ $active = eq $.RelPermalink "/about/" }}
-        {{ else if eq .Identifier "guestbook" }}
-          {{ $active = eq $.RelPermalink "/guestbook/" }}
-        {{ end }}
-
-        <li>
-          <a
-            href="{{ .URL }}"
-            class="{{ if $active }}active{{ end }}"
-            {{ if $active }}aria-current="page"{{ end }}>
-            {{ .Name }}
-          </a>
-        </li>
+      {{ if eq .Identifier "home" }}
+        {{ $active = or $active (eq $current.RelPermalink site.Home.RelPermalink) }}
+      {{ else if eq .Identifier "blog" }}
+        {{ $active = or $active (eq $current.Section "blog") }}
+      {{ else if eq .Identifier "about" }}
+        {{ $active = or $active (hasPrefix $current.RelPermalink "/about/") }}
+      {{ else if eq .Identifier "guestbook" }}
+        {{ $active = or $active (hasPrefix $current.RelPermalink "/guestbook/") }}
       {{ end }}
-    </ul>
-  </nav>
+
+      <li>
+        <a href="{{ .URL }}" class="{{ if $active }}active{{ end }}" {{ if $active }}aria-current="page"{{ end }}>
+          {{ .Name }}
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+</nav>

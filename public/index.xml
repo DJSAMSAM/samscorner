@@ -71,10 +71,10 @@
 			</item>
 			<item>
 				<title>Guestbook</title>
-				<link>http://localhost:1313/samscorner/guestbook/sams_guestbook/</link>
+				<link>http://localhost:1313/samscorner/guestbook/</link>
 				<pubDate>Thu, 11 Apr 2024 20:00:35 +0200</pubDate>
-				<guid>http://localhost:1313/samscorner/guestbook/sams_guestbook/</guid>
-				<description>&lt;p&gt;Sign the guestbook!&lt;/p&gt;</description>
+				<guid>http://localhost:1313/samscorner/guestbook/</guid>
+				<description>&lt;p&gt;Like the site? Hate the site? Want to say hi?&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Sign the guestbook!&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
